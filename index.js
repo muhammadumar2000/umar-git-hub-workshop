@@ -1,1 +1,1 @@
-chonsole.log('hello world')
+chonsole.log('hello earth')
